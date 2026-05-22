@@ -1,4 +1,4 @@
-# docker | Ollama
+# docker | CPU | Ollama
 
 ## Default configs
 
